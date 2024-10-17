@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1693481915 source:f:\mostafa\corses\embedded systems\iti\c_project\project_c\main.c
+	<stdio.h>
+	<stdlib.h>
+	"STD_Types.h"
+
+1693301416 f:\mostafa\corses\embedded systems\iti\c_project\project_c\std_types.h
+
